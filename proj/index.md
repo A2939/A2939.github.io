@@ -56,5 +56,6 @@ member. The members name is engraved on the base of the chalice as a memorial to
 member. Please contact the worthy Comptroller to take part in this program.
 <hr></td><td></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr><td></td><td><br><br>       
 
+<img src="../assets/img/johnpaulii.jpg" width="825">
 <!-- END OF MAIN TABLE -->      
 </td><td></td></tr></table>
