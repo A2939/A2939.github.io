@@ -56,6 +56,6 @@ member. The members name is engraved on the base of the chalice as a memorial to
 member. Please contact the worthy Comptroller to take part in this program.
 <hr></td><td></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr><td></td><td><br><br>       
 
-<img src="../assets/img/johnpaulii.jpg" width="825"> ><br><font size="1" align="right">Illustration: Richard E. Barber (Photo by Keystone/Getty Images)</font>
+<img src="../assets/img/johnpaulii.jpg" width="825" alt="St. Pope John Paul II with arms outstretched to Poland, June 1979 in a colorized Keystone/Getty Images news photo"><br><font size="1" align="right">Illustration: Richard E. Barber (Photo by Keystone/Getty Images)</font>
 <!-- END OF MAIN TABLE -->      
 </td><td></td></tr></table>
