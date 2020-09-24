@@ -56,8 +56,8 @@ member. The members name is engraved on the base of the chalice as a memorial to
 member. Please contact the worthy Comptroller to take part in this program.
 <hr></td><td></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr><td></td><td><br><br>       
 
-<img src="../assets/img/johnpaulii.jpg" width="825" alt="St. Pope John Paul II with arms outstretched to Poland, June 1979 in a colorized Keystone/Getty Images news photo"><br><font size="1" align="right">Illustration: Richard E. Barber (Photo by Keystone/Getty Images)</font><br>
-<font size="2" align="justify">Love of our country unites us and must unite us above all divergences. It has nothing in common with a narrow nationalism or chauvinism, but springs from the law of the human heart. It is a measure of man’s nobility: a measure that has been put to the test many times during our difficult history.</font><font size="1">(Pope &#x271E; John Paul II 23 October 1978)</font></br>
+<img src="../assets/img/johnpaulii.jpg" width="825" alt="St. Pope John Paul II with arms outstretched to Poland, June 1979 in a colorized Keystone/Getty Images news photo"><br><font size="1" align="right">Illustration: Richard E. Barber (Photo by Keystone/Getty Images)</font><hr>
+<font size="2" align="justify">Love of our country unites us and must unite us above all divergences. It has nothing in common with a narrow nationalism or chauvinism, but springs from the law of the human heart. It is a measure of man’s nobility: a measure that has been put to the test many times during our difficult history.</font><font size="1">(Pope &#x271E; John Paul II 23 October 1978)</font>
 
 <!-- END OF MAIN TABLE -->      
 </td><td></td></tr></table>
