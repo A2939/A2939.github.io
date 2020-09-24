@@ -40,7 +40,7 @@ with great dignity and pride.”
 Pope John Paul II Assembly 2939 provides annual or biennial finacial donations to select patriotic charitable organizations in the US.
 <hr></td><td></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr><td></td><td><br><br>   
 
-<img src="../assets/img/wreathslogo.png" width="1000" alt="Wreaths Across America"></td><td></td></tr><tr><td></td><td><h2>
+<img src="../assets/img/wreathslogo.png" width="825" alt="Wreaths Across America"></td><td></td></tr><tr><td></td><td><h2>
 <em>Wreaths Across America</em></h2>
 The Fourth Degree of the Knights of Columbus is the <em>PATRIOTIC</em> degree of the Order. 
 There is nothing more patriotic than honoring the graves of our fallen local
@@ -49,7 +49,7 @@ financially and as a service project.
 <hr></td><td></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr><td></td><td><br><br> 
 
 <img src="../assets/img/chalise2.jpg" width="400" alt="Chalice"></td><td></td></tr><tr><td></td><td><h2>
-<em>The Chalice Program</em></h2>
+<em>Chalice Program</em></h2>
 The chalice program is available to any member of the assembly. Members who join the
 program agree to purchase a chalice to be given to a priest after the passing of the
 member. The members name is engraved on the base of the chalice as a memorial to that
