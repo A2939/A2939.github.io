@@ -83,7 +83,7 @@ footer:
       - text: Tertiary docs
         href: /docs/three/
   - text: Navigation section
-    href: /docs/
+    href: /nav/
     links:
       - text: Demo link A
         href: /two/a/
