@@ -3,3 +3,7 @@
   
   # Hello, world!
 > update
+
+
+<!-- END OF MAIN TABLE -->      
+</td><td></td></tr></table>
