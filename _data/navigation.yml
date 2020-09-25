@@ -18,9 +18,9 @@ primary:
     href: /proj/
   - text: Past Faithful Navigators
     href: /past/
-  - text: Patriotic Songs
-    href: /songs/
-  - text: Navigation section
+  - text: Resources
+    href: /res/
+  - text: Organizations
     links:
       - text: 'Knights of Columbus 4th Degree ✞ Pope John Paul II Assembly 2939'
         href: https://a2939.github.io
@@ -77,24 +77,10 @@ docs:
 footer:
 # Uncomment the 'links' sections below to use footer link columns
 # with the 'big' footer style.
-  - text: Past Faithful Navigators
-    href: /past/
-    links:
-      - text: Overview
-        href: /docs/
-      - text: Secondary documentation page
-        href: /docs/two/
-      - text: Tertiary docs
-        href: /docs/three/
-  - text: Navigation section
+  - text: Join Us
+    href: /join/
+  - text: Navigation
     href: /nav/
-    links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
   - text: External links
     href: /ext/
   - text: Privacy policy
