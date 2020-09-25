@@ -6,4 +6,4 @@
 </td><td></td></tr>
 
 <!-- END OF MAIN TABLE -->      
-</td><tr></tr></table>
+<tr></tr></table>
