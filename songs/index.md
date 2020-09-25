@@ -1,9 +1,8 @@
 <!-- START OF MAIN TABLE -->
-<table><tr><tr><td></td>
+<table><td></td><td>
 
-<td>
-<a href="../assets/pdf/ssb.pdf"><font size="5" color="blue">The Star Spangled Banner</font></a>
-</td><td></td></tr>
+<a href="../assets/pdf/ssb.pdf"><font size="5" color="blue"><em>The Star Spangled Banner</em></font></a>
 
-<!-- END OF MAIN TABLE -->      
-<tr></tr></table>
+
+</td><td></td></tr></table>
+<!-- END OF MAIN TABLE -->
