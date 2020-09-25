@@ -1,7 +1,7 @@
 <!-- Beginning of Main Table -->
 <table><tr><td></td><td>
 
-<table><tr><td style="style="width:70%;font-family:verdana;color:blue;font-size:72px>Step 1.</td><td style=""width:30%;font-family:verdana;color:blue;font-size:48px">Join a <em><a href="../ext/">local council</a></em> as a First/Second/Third degree knight.</td></tr></table>
+<table><tr><td style="width:70%;font-family:verdana;color:blue;font-size:72px">Step 1.</td><td style="width:30%;font-family:verdana;color:blue;font-size:48px">Join a <em><a href="../ext/">local council</a></em> as a First/Second/Third degree knight.</td></tr></table>
 <hr></td><td></td></tr><tr><td></td><td>
 
 Step 2.
