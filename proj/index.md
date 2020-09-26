@@ -13,11 +13,11 @@ Members of the 4th Degree are eligible to become part of the Color Corps.
 Perhaps you have seen the Color Corps in a parade, a funeral or a liturgical event in the church.
 With our knightly garb, maybe you have seen us, as have millions, on television.
 The Color Corps is the highly visible arm of the Knights of Columbus.
-Color Corps members exemplify all four principles of the Knights of Columbus.
-* <em>Charity</em> by free and willing sacrifice of time and energy to practice and perform the ceremonials.
-* <em>Unity</em> by coordinated drill in a body of men.
-* <em>Fraternity</em> though membership in a close-knit group and esprit de corps.
-* <em>Patriotism</em> -- Precision drills are a salute to God and our country. They visually exhibit a love for both.
+Color Corps members exemplify all four principles of the Knights of Columbus.<br>
+* <em>Charity</em> by free and willing sacrifice of time and energy to practice and perform the ceremonials.<br>
+* <em>Unity</em> by coordinated drill in a body of men.<br>
+* <em>Fraternity</em> though membership in a close-knit group and esprit de corps.<br>
+* <em>Patriotism</em> -- Precision drills are a salute to God and our country. They visually exhibit a love for both.<br>
 <hr></td><td></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr><td></td><td><br><br>   
   
 <img src="../assets/img/4thdeg.jpg" width="600" alt="Fourth Dregree Honor Guard Regalia"></td><td></td></tr><tr><td></td><td><h2>
