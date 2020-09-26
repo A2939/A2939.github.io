@@ -20,7 +20,7 @@ Color Corps members exemplify all four principles of the Knights of Columbus.<br
 * <em>Patriotism</em> -- Precision drills are a salute to God and our country. They visually exhibit a love for both.<br>
 <hr></td><td></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr><td></td><td><br><br>   
   
-<img src="../assets/img/4thdeg.jpg" width="600" alt="Fourth Dregree Honor Guard Regalia"></td><td></td></tr><tr><td></td><td><h2>
+<img src="../assets/img/4thdeg.jpg" width="600" alt="Fourth Dregree Honor Guard Regalia"></td><td></td></tr><tr><td></td><td style="justify-content:space-around"><h2>
 <em>Honor Guard Regalia</em></h2>
 During the convention, the Good of the Order Committee stated: “We commend all of the
 faithful Sir Knights who have proudly worn the Fourth Degree regalia, bringing much
