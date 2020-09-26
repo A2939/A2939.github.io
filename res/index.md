@@ -35,5 +35,6 @@
 <tr><td></td><td style="font-family:verdana;color:#282828;font-size:10px;text-align:right;font-style:oblique">Illustration: Richard E. Barber (Photo by Keystone/Getty Images)</td><td></td></tr>
 <tr><td></td><td style="font-family:times;font-style:italic">Love of our country unites us and must unite us above all divergences. It has nothing in common with a narrow nationalism or chauvinism, but springs from the law of the human heart. It is a measure of man’s nobility: a measure that has been put to the test many times during our difficult history.</td><td></td></tr>
 <tr><td></td><td style="font-family:times;color:#5555FF">Pope &#x271E; John Paul II 23 October 1978</td><td></td>
+</tr>
 </table>
 <!-- END OF MAIN TABLE -->
