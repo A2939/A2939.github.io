@@ -1,3 +1,5 @@
+<hr3>Becoming a 4th Degree Sir Knight</hr3>
+
 <!-- Beginning of Main Table -->
 <table><tr><td></td><td>
 
