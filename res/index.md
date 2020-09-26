@@ -14,9 +14,9 @@
 <table style="width:100%">
   <tr>
     <td style="width:30%;font-family:verdana;color:red;font-size:164px">
-      <a href="http://www.kofc.org/en/resources/service/council/1582_3_10.pdf">🇺🇸</a>
+      <a href="http://www.kofc.org/en/resources/service/council/1582_3_10.pdf">📜 </a>
     </td><td style="width:70%;font-family:verdana;color:red;font-size:64px">
-      <font size="5" color="blue"><a href="http://www.kofc.org/en/resources/service/council/1582_3_10.pdf">History of the US Flag 📜</font></a>
+      <font size="5" color="blue"><a href="http://www.kofc.org/en/resources/service/council/1582_3_10.pdf">History of the United States Flag 🇺🇸</font></a>
     </td>
   </tr>
 </table></td><td></td><hr><tr><td></td><td>
