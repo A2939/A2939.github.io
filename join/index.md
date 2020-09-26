@@ -1,4 +1,4 @@
-<hr3>Becoming a 4th Degree Sir Knight</hr3>
+<h3>Becoming a 4th Degree Sir Knight</h>
 
 <!-- Beginning of Main Table -->
 <table><tr><td></td><td>
