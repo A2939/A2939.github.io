@@ -15,5 +15,5 @@
   <tr><td style="text-align:right">2010-2011 </td><td>Faithful Navigator</td></tr>
   <tr><td style="text-align:right">2009-2009 </td><td>Faithful Navigator</td></tr>
 </table>
-  </td><td></td><td style="width:63%"><img src="../assets/img/past1.jpg" width="400" align="right"></td></tr>
+  </td><td></td><td style="width:63%"><img src="../assets/img/past1.png" width="400" align="right"></td></tr>
 </table>
