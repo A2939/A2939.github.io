@@ -6,6 +6,6 @@
 
 <a href="/ext">External Links</a>
 
-<a href="/join">Join Us!</a>
+<a href="/join">Join Us</a>
 
 <a href="/priv">Privacy Policy</a>
