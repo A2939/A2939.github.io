@@ -80,19 +80,7 @@ footer:
   - text: Join Us
     href: /join/
   - text: Navigation
-    links:
-      - text: Assembly Programs and Projects
-        href: /proj/
-      - text: Past Faithful Navigators
-        href: /past/
-      - text: Assembly Resources
-        href: /res/
-      - text: External Links
-        href: /ext/
-      - text: Join Us!
-        href: /join/
-      - text: Privacy Policy
-        href: /priv/
+    href: /nav/
   - text: External links
     href: /ext/
   - text: Privacy policy
