@@ -9,7 +9,7 @@
  <a href="../assets/pdf/ssb.pdf">The Star Spangled Banner 🇺🇸</a>
     </td>
 </table>
-<td></td><tr><td></td><td>
+</td><td></td><tr><td></td><td>
 
 <table style="width:80%">
     <td style="width:30%;font-family:verdana;color:red;font-size:164px">
@@ -19,7 +19,7 @@
       <a href="http://www.kofc.org/en/resources/service/council/1582_3_10.pdf">History of the United States Flag 🇺🇸</a>
     </td>
 </table>
-<td></td><tr><td></td><td>
+</td><td></td><tr><td></td><td>
 
 <table style="width:80%">
     <td style="width:30%;font-family:verdana;color:red;font-size:164px">
@@ -29,7 +29,7 @@
       <a href="https://www.kofc.org/un/en/resources/communications/pledgeAllegiance.pdf">The Pledge of Allegience 🇺🇸</a>
     </td>
 </table>
-<td></td><tr><td></td><td>
+</td><td></td><tr><td></td><td>
 
 <tr><td></td><td><img src="../assets/img/johnpaulii.jpg" width="825" alt="St. Pope John Paul II with arms outstretched to Poland, June 1979 in a colorized Keystone/Getty Images news photo"></td><td></td>
 <tr><td></td><td style="width:825;font-family:verdana;color:white;font-size:10px;align:right">Illustration: Richard E. Barber (Photo by Keystone/Getty Images)</td><td></td>
