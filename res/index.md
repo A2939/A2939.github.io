@@ -10,7 +10,7 @@
     </td>
   </tr>
 </table>
-</td><td></td><tr><td></td><td>
+</td><td></td></tr><tr><td></td><td>
 
 <table style="width:100%">
   <tr>
@@ -21,7 +21,7 @@
     </td>
   </tr>
 </table>
-</td><td></td><tr><td></td><td>
+</td><td></td></tr><tr><td></td><td>
 
 <table style="width:100%">
   <tr>
@@ -32,7 +32,7 @@
     </td>
   </tr>
 </table>
-</td><td></td><tr><td></td><td>
+</td><td></td></tr><tr><td></td><td>
 
 </td><td></td></tr></table>
 <!-- END OF MAIN TABLE -->
