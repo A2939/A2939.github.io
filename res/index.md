@@ -20,8 +20,9 @@
       <a href="http://www.kofc.org/en/resources/service/council/1582_3_10.pdf">History of the United States Flag 🇺🇸</a>
     </td>
 </table>
-<td></td><tr><td></td><td>
 <hr>
+<td></td><tr><td></td><td>
+
 
 <table style="width:80%">
     <td style="width:30%;font-family:verdana;color:red;font-size:164px">
@@ -31,8 +32,9 @@
       <font size="5" color="blue"><a href="https://www.kofc.org/un/en/resources/communications/pledgeAllegiance.pdf">The Pledge of Allegience 🇺🇸</a>
     </td>
 </table>
-<td></td><tr><td></td><td>
 <hr>
+<td></td><tr><td></td><td>
+
 
 <tr></table>
 <!-- END OF MAIN TABLE -->
