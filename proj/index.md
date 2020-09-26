@@ -53,7 +53,7 @@ financially and as a service project.
 The chalice program is available to any member of the assembly. Members who join the
 program agree to purchase a chalice to be given to a priest after the passing of the
 member. The members name is engraved on the base of the chalice as a memorial to that
-member. Please contact the worthy Comptroller to take part in this program.
+member. Please contact the Faithful Comptroller to take part in this program.
 <hr></td><td></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr><td></td><td><br><br>       
 
 
