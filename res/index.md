@@ -21,17 +21,15 @@
 </table>
 <td></td><tr><td></td><td>
 
-
 <table style="width:80%">
     <td style="width:30%;font-family:verdana;color:red;font-size:164px">
       <a href="https://www.kofc.org/un/en/resources/communications/pledgeAllegiance.pdf">📜 </a>
     </td>
     <td style="width:70%;font-family:verdana;color:red;font-size:64px">
-      <font size="5" color="blue"><a href="https://www.kofc.org/un/en/resources/communications/pledgeAllegiance.pdf">The Pledge of Allegience 🇺🇸</a>
+      <a href="https://www.kofc.org/un/en/resources/communications/pledgeAllegiance.pdf">The Pledge of Allegience 🇺🇸</a>
     </td>
 </table>
 <td></td><tr><td></td><td>
-
 
 <tr></table>
 <!-- END OF MAIN TABLE -->
