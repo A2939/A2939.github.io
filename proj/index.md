@@ -35,9 +35,9 @@ with great dignity and pride.”
 <hr></td><td></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr><td></td><td><br><br>
 
 <table><tr>
-<td style="width:33%"><a href="https://www.woundedwarriorproject.org"><img src="../assets/img/warrior.png" width="350" alt="The Wounded Warrior Project"></a></td>
-<td style="width:33%"><a href="http://eastbaystanddown.org"><img src="../assets/img/eastbaystanddown.gif" width="200" alt="East Bay Stand Down"></a></td>
-<td style="width:33%"><a href="https://tunnel2towers.org"><img src="../assets/img/tunnel.png" width="275" alt="Stephen Siller Tunnel To Towers Foundation"></a></td></table>
+<td style="width:40%"><a href="https://www.woundedwarriorproject.org"><img src="../assets/img/warrior.png" width="350" alt="The Wounded Warrior Project"></a></td>
+<td style="width:30%"><a href="http://eastbaystanddown.org"><img src="../assets/img/eastbaystanddown.gif" width="200" alt="East Bay Stand Down"></a></td>
+<td style="width:30%"><a href="https://tunnel2towers.org"><img src="../assets/img/tunnel.png" width="275" alt="Stephen Siller Tunnel To Towers Foundation"></a></td></tr></table>
 </td><td></td></tr><tr><td></td><td><h2>
 <em>Support for Patriotic Charities</em></h2>
 Pope John Paul II Assembly 2939 provides annual or biennial finacial donations to select patriotic charitable organizations in the US.
