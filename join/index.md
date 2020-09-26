@@ -20,7 +20,7 @@ Join our Assembly by attending an Exemplification of the Fourth Degree. Contact 
   </td><td style="width:70%;font-family:verdana;color:blue;font-size:48px">
 Participate in <em><a href="../proj/">Assembly programs and projects</a></em>. Attend meetings and join the Assembly board.
   </td></tr></table>
-<hr></td><td></td></tr><tr><td></td><td>
+</td><td></td></tr><tr><td></td><td>
 
 <!-- END OF MAIN TABLE -->      
 </td><td></td></tr></table>
