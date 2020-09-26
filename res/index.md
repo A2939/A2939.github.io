@@ -1,4 +1,3 @@
-Assembly Resources
 <!-- START OF MAIN TABLE -->
 <table><tr><tr><td></td><td>
 
