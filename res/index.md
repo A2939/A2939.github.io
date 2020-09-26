@@ -1,5 +1,5 @@
 <!-- START OF MAIN TABLE -->
-<table><tr><td></td><td>
+<table><tr><tr><td></td><td>
 
 <table style="width:100%">
     <td style="width:30%;font-family:verdana;color:red;font-size:96px">
