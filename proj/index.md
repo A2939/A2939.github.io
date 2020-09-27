@@ -35,9 +35,9 @@ with great dignity and pride.”
 <hr></td><td></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr><td></td><td><br><br>
 
 <table><tr>
-<td style="width:44%"><a href="https://www.woundedwarriorproject.org"><img src="../assets/img/warrior.png" align="center" width="100%" alt="The Wounded Warrior Project" style="display:block;width:100%"></a></td>
-<td style="width:28%"><a href="http://eastbaystanddown.org"><img src="../assets/img/eastbaystanddown.gif" align="center" width="100%" alt="East Bay Stand Down" style="display:block;width:100%"></a></td>
-<td style="width:28%"><a href="https://tunnel2towers.org"><img src="../assets/img/tunnel.png" align="center" width="100%" alt="Stephen Siller Tunnel To Towers Foundation" style="display:block;width:100%"></a></td></tr></table>
+<td style="padding:0px;width:44%"><a href="https://www.woundedwarriorproject.org"><img src="../assets/img/warrior.png" align="center" width="100%" alt="The Wounded Warrior Project" style="display:block;width:100%"></a></td>
+<td style="padding:0px;width:28%"><a href="http://eastbaystanddown.org"><img src="../assets/img/eastbaystanddown.gif" align="center" width="100%" alt="East Bay Stand Down" style="display:block;width:100%"></a></td>
+<td style="padding:0px;width:28%"><a href="https://tunnel2towers.org"><img src="../assets/img/tunnel.png" align="center" width="100%" alt="Stephen Siller Tunnel To Towers Foundation" style="display:block;width:100%"></a></td></tr></table>
 </td><td></td></tr><tr><td></td><td><h2>
 <em>Support for Patriotic Charities</em></h2>
 Pope John Paul II Assembly 2939 provides annual or biennial finacial donations to select patriotic charitable organizations in the US.
