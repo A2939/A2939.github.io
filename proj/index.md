@@ -18,7 +18,7 @@ Color Corps members exemplify all four principles of the Knights of Columbus.<br
 <table>
 <tr><td style="font-size:20px;width:37%;text-align:right">Charity</td><td> by free and willing sacrifice of time and energy to practice and perform the ceremonials.</td></tr>
 <tr><td style="font-size:20px;width:37%;text-align:right">Unity</td><td> by coordinated drill in a body of men.</td></tr>
-<tr><td style="font-size:20px;width:37%;text-align:right">Fraternity</td><td> though membership in a close-knit group and esprit de corps.</td></tr>
+<tr><td style="font-size:20px;width:37%;text-align:right">Fraternity</td><td> through membership in a close-knit group and esprit de corps.</td></tr>
 <tr><td style="font-size:20px;width:37%;text-align:right">Patriotism</td><td> Precision drills are a salute to God and our country. They visually exhibit a love for both.</td></tr>
 </table>
 <hr></td><td></td></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr></tr><tr><td></td><td><br><br>
