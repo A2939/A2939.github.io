@@ -48,10 +48,10 @@ contact:
   #   href: https://usa.gov/
   #   external: true
   #   type: rss
-  heading: A2939 Faithful Scribe Contact Center
+  heading: A2939
   # Configuration for contact links for email, phone, etc...
   contact_links:
-    - text: (408) 966-1682
-      href: tel:1-408-966-1682
-    - text: kd6kxr@gmail.com
-      href: mailto:kd6kxr@gmail.com
+    - text: (999) 999-9999
+      href: tel:1-999-999-9999
+    - text: nobody@nobody.com
+      href: mailto:nobody@nobody.com
